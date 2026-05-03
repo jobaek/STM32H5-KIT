@@ -9,7 +9,11 @@ https://github.com/dong-higenis/stm32h5-kit
 
 
 Environment
+
 STM32CubeMX : V6.17.0
+
 STM32CubeIDE : V2.1.0
+
 STM32CubeH5 : V1.6.0
+
 
